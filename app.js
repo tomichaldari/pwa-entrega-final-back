@@ -10,7 +10,7 @@ const app = express();
 // base de Datos
 conectarDB();
 
-const PORT = process.env.PORT || 4000
+const PORT = process.env.PORT || 4000 
 
 
 //cors
